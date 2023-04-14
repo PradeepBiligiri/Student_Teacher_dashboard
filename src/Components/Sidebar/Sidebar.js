@@ -7,7 +7,7 @@ function Sidebar() {
     <div className="sidebar">
       <div className="top">
         <span className="logo">
-          <SchoolIcon className="icon" />
+          <SchoolIcon className="logoIcon" />
           Stdent Teacher Management
         </span>
       </div>
