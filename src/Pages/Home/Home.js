@@ -1,6 +1,6 @@
-import Navbar from "../Navbar/Navbar";
-import Sidebar from "../Sidebar/Sidebar";
 import "./home.scss";
+import Navbar from "../../Components/Navbar/Navbar";
+import Sidebar from "../../Components/Sidebar/Sidebar";
 
 function Home() {
   return (
